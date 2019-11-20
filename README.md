@@ -25,17 +25,17 @@
         npx webpack --mode development
 
 or
-npx webpack --mode production
+        npx webpack --mode production
 
-## Backend
-
+## Backend
         ./cargo run
 
-## Call it
+## Call
 
-http://localhost:5000/
+        http://localhost:5000/
 
-## Link it
+
+## Target
 
 Result is in ./target
 
